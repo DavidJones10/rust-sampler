@@ -4,7 +4,7 @@
 ## Compilation Steps
 
 ### After installing Rust and cloning this repository, you can compile Ase Example as follows:
-demo video: https://youtu.be/IabgXZt028w
+
 1. First enter the directory in which this repository is cloned. For instance: 'cd Desktop/SAE2024_Final/'
 
 2. Then enter the RustSampler directory using 'cd RustSampler' 
@@ -28,6 +28,8 @@ demo video: https://youtu.be/IabgXZt028w
 1. When you download the file, you will need to edit the paths in the sfz file that point to all of the audio files. This can be done using your preferred text editor and using a find and replace all to replace the currnent paths with your own.
    * This might look like this 'find: "auraaudio/Desktop/Salamander"  replace with: "your_user_name/Downloads/SFZ Files/Salamander Grand Piano" '
 2. Once this is done, you should be able to navigate to that sfz file from the RustSampler and it should load immediately. If it does not load, there may be a problem with your file paths.
+
+## Demo Video: https://youtu.be/IabgXZt028w
 ## GUI Image
 ![plot](./images/RustSampler_GUI.png)
 
