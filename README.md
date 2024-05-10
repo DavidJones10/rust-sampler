@@ -1,6 +1,6 @@
 # Rust Sampler
 #### Original Repo: [SAE2024_Final](https://github.com/SonyaInSiberia/SAE2024_Final)
-
+#### [Documentation] (https://davidjones10.github.io/rust-sampler/)
 ## Compilation Steps
 
 ### After installing Rust and cloning this repository, you can compile Ase Example as follows:
