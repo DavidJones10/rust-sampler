@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FaderState"],"fn":["fclamp"],"struct":["Crossfade"]};
